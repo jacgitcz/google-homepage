@@ -1,0 +1,90 @@
+.logo {
+	position: absolute;
+	left: 40%;
+	top: 20%;
+	width: 100%;
+}
+
+.searchbox {
+	position: absolute;
+	left: 34%;
+	top: 35%;
+	width: 100%;
+}
+
+.sbox {
+	width: 25%;
+	padding: 6px 10px;
+	box-sizing: border-box;
+	border: 1px solid blue;
+	background-color: white;
+	height: 50px;
+}
+
+.navbar {
+	float: right;
+}
+
+div.navbar ul li {
+	display: inline;
+	font-size: 75%;
+	padding-right: 10px;
+}
+
+img.appsmenu {
+	position: relative;
+	top: 10px;
+	height: auto;
+	width: auto;
+	max-width: 25px;
+	max-height: 25px;
+
+}
+
+img.notification {
+	position: relative;
+	top: 0px;
+	height: auto;
+	width: auto;
+	max-width: 10px;
+	max-height: 10px;
+}
+
+.buttons {
+	position: absolute;
+	left: 40%;
+	top: 45%;
+	width: 100%;
+}
+
+.btn {
+	display: inline;
+}
+
+.footer-left {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+}
+
+.footer-right {
+	position: absolute;
+	left: 85%;
+	bottom: 0;
+	width: 100%;
+}
+
+div.footer-right li, div.footer-left li {
+	display: inline;
+	font-size: 75%;
+}
+
+.credits {
+	position: absolute;
+	left: 35%;
+	bottom: 10px;
+	width: 100%;
+	color: red;
+	font-size: 75%;
+}
